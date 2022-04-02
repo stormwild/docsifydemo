@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-- [Home - Docsify Demo](./)
+- [Home](./)
 
 - [Tutorials](./tutorials/index)
 
